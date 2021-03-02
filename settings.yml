@@ -495,23 +495,23 @@ private:
             heapdumpIntervalMs: 3600000
     minBrowserVersions:
         - browser: chrome
-          version: 72
+          version: 59
         - browser: chromeMobileIOS
           version: Infinity
         - browser: firefox
-          version: 63
+          version: 52
         - browser: firefoxMobile
-          version: 68
+          version: 52
         - browser: edge
-          version: 79
+          version: 17
         - browser: ie
           version: Infinity
         - browser: safari
-          version: [12, 1]
+          version: [11, 1]
         - browser: mobileSafari
-          version: [12, 1]
+          version: [11, 1]
         - browser: opera
-          version: 50
+          version: 46
         - browser: electron
           version: [0, 36]
         - browser: SamsungInternet
